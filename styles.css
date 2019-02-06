@@ -42,3 +42,13 @@ p {
     height: 60px;
     font-size: 188%;
 }
+
+.box {
+    display: inline-block;
+    width: 33%;
+    lign-items: center;
+}
+
+img {
+    width:100%
+}
