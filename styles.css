@@ -6,6 +6,8 @@ h1 {
     text-align: center;
     color: white;
     margin: 0px;
+    padding: 5px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 header {
@@ -28,22 +30,24 @@ li {
     padding: 12px 18px;
     margin: 4px;
     color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-a > ul {
+a {
   text-decoration: none;
 }
 
 p {
     color: white;
-    background-color: #dcdcdc;
+    background-color: #8cfecc;
     margin: 15px 20px;
     padding: 10px;
     height: 60px;
     font-size: 188%;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-.box {
+.picture-box {
     display: inline-block;
     width: 33%;
     lign-items: center;
@@ -66,4 +70,5 @@ footer {
     text-align: center;
     padding: 20px;
     font-size: 15px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
